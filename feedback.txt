@@ -8,5 +8,3 @@ poor
 average
 good
 average
-
-
