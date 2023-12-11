@@ -1,0 +1,12 @@
+good
+poor
+good
+good
+average
+poor
+poor
+average
+good
+average
+
+
